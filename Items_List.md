@@ -7,7 +7,7 @@
 * JoyStick XY Axis x 2 <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/joystick.PNG" width="95">
 * Arduino UNO <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/arduinouno.PNG" width="180">
 * Arduino Nano <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/arduinonano.PNG" width="90">
-* NRF24L01 Wireless Transeiver + Antenna Module <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/NRF24L01.PNG" width="100">
+* NRF24L01 Wireless Transeiver + Antenna Module <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/NRF24L01.PNG" width="120">
 * L298N <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/L298N.PNG" width="100">
 * Power Battery Storage <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/powerbattery.PNG" width="130">
 * Dupont cables <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/dupont.PNG" width="100">
