@@ -1,4 +1,4 @@
-# SEProject
+# SEProject - John Wick
 Repository of "Sistemi Embedded" Project
 
 This is the main page of the project of Boris Coteata and Alex Vecchi, approved by Professor Andrea Trentini some time ago (08/11/2018) but for work reasons we will able to complete it only in this year.
