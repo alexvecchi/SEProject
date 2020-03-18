@@ -6,11 +6,11 @@
 * Breadboard <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/Breadboard.PNG" width="180">
 * JoyStick XY Axis x 2 <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/joystick.PNG" width="100">
 * Arduino UNO <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/arduinouno.PNG" width="180">
-* Arduino Nano <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/arduinonano.PNG" width="85">
+* Arduino Nano <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/arduinonano.PNG" width="90">
 * NRF24L01 Wireless Transeiver + Antenna Module <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/NRF24L01.PNG" width="100">
 * L298N <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/L298N.PNG" width="100">
 * Power Battery Storage <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/powerbattery.PNG" width="100">
 * Dupont cables <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/dupont.PNG" width="100">
 * Ultrasonic Sensors <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/Ultrasonic.PNG" width="100">
-* Breadboard Power Module <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/Breadboardpower.PNG" width="100">
+* Breadboard Power Module <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/Breadboardpower.PNG" width="120">
 * TT Motors with wheels x 4 <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/TTMotors.PNG" width="140">
