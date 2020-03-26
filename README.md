@@ -8,3 +8,6 @@ The name of this project came from the character of the movie series "John Wick"
 
 
 * [List of the items used for the project](https://github.com/alexvecchi/SEProject/blob/master/Items_List.md)
+* [List of the libraries used for the project](https://github.com/alexvecchi/SEProject/blob/master/Libraries.md)
+
+
