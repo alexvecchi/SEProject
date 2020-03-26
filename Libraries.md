@@ -4,5 +4,8 @@
 * [<nRF24L01.h>](https://github.com/nRF24/RF24/blob/master/nRF24L01.h)
 * [<RF24.h>](https://www.arduinolibraries.info/libraries/rf24)
 * [<ServoTimer2.h>](https://github.com/nabontra/ServoTimer2)
-                                                                                                                         [Home](https://github.com/alexvecchi/SEProject)
+
+
+
+[Home](https://github.com/alexvecchi/SEProject)
 
