@@ -12,4 +12,4 @@ The name of this project came from the character of the movie series "John Wick"
 * [Software Source Code](https://github.com/alexvecchi/SEProject/tree/master/Source%20Code)
 * [Schematic Source Code](https://github.com/alexvecchi/SEProject/tree/master/Source%20Code)
 
-## Schematic Circuit
+### Schematic Circuit
