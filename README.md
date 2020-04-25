@@ -6,7 +6,7 @@ Our project is to build piece by piece a little car/tank that can be driven by a
 
 The name of this project came from the character of the movie series "John Wick", we decided to call the car in this way only because the chassis is built from an "Air Wick air freshener" :)
 
-
+### Summary
 * [List of the items used for the project](https://github.com/alexvecchi/SEProject/blob/master/Items_List.md)
 * [List of the libraries used for the project](https://github.com/alexvecchi/SEProject/blob/master/Libraries.md)
 * [Software Source Code](https://github.com/alexvecchi/SEProject/tree/master/Source%20Code)
