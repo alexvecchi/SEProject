@@ -14,7 +14,7 @@ The name of this project came from the character of the movie series "John Wick"
 
 ### Schematic Circuit
 Transmitter Schema:
-<img src="https://github.com/alexvecchi/SEProject/blob/master/Images/Transmitter.png" width="400">
+<img src="https://github.com/alexvecchi/SEProject/blob/master/Images/Transmitter.png" width="300">
 
 Receiver Schema:
 <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/Receiver.png" width="500">
