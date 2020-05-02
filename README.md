@@ -20,7 +20,9 @@ The name of this project came from the character of the movie series "John Wick"
 <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/Car%20back.jpeg" width="450">
 
 <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/Transmitter.jpeg" width="450">
+
 ### Schematic Circuit
+
 Transmitter Schema:
 <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/Transmitter.png" width="250">
 
