@@ -2,7 +2,6 @@
 #include <nRF24L01.h>
 #include <RF24.h>
 #include <Servo.h>
-//#include "ServoTimer2.h"
 #define trigPin A1
 #define echoPin A0
 #define selfDriveMode_led A3
