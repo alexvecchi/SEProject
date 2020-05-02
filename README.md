@@ -12,7 +12,7 @@ The name of this project came from the character of the movie series "John Wick"
 * [Software Source Code](https://github.com/alexvecchi/SEProject/tree/master/Source%20Code)
 * [Schematic Fritzing Files](https://github.com/alexvecchi/SEProject/tree/master/Fritzing%20Files)
 
-### Presentation
+### Photography  Presentation
 <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/Car%20presentation.jpeg" width="450">
 
 <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/Car%20front.jpeg" width="450">
