@@ -13,7 +13,16 @@ The name of this project came from the character of the movie series "John Wick"
 * [Schematic Fritzing Files](https://github.com/alexvecchi/SEProject/tree/master/Fritzing%20Files)
 
 ### Presentation
+<img src="https://github.com/alexvecchi/SEProject/blob/master/Images/Car%20presentation.jpeg" width="550">
 
+Car Front:
+<img src="https://github.com/alexvecchi/SEProject/blob/master/Images/Car%20front.jpeg" width="550">
+
+Car Back:
+<img src="https://github.com/alexvecchi/SEProject/blob/master/Images/Car%20back.jpeg" width="550">
+
+Transmitter:
+<img src="https://github.com/alexvecchi/SEProject/blob/master/Images/Transmitter.jpeg" width="550">
 ### Schematic Circuit
 Transmitter Schema:
 <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/Transmitter.png" width="250">
