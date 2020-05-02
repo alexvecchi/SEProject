@@ -16,7 +16,7 @@
 * TT Motors with wheels x 4 <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/TTMotors.PNG" width="140">
 * AirWick Motor <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/AirWickRotorMotor.PNG" width="140">
 * Light Sensor <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/LightSensor.PNG" width="140">
-* Led bulb <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/LedBulb.PNG" width="140">
+* Led bulb <img src="https://github.com/alexvecchi/SEProject/blob/master/Images/LedBulb.PNG" width="110">
 
 
 
