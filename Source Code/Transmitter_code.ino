@@ -26,10 +26,10 @@ int dValue_Servo;
 void setup() {
   pinMode(x_axis, INPUT);
   pinMode(y_axis, INPUT);
-  pinMode(d_pin, INPUT); //usare INPUT_PULLUP?
+  pinMode(d_pin, INPUT); //or INPUT_PULLUP
   pinMode(x_axis_Servo, INPUT); 
   pinMode(y_axis_Servo, INPUT);
-  pinMode(d_pin_Servo, INPUT); //usare INPUT_PULLUP?
+  pinMode(d_pin_Servo, INPUT); //or INPUT_PULLUP
   Serial.begin(9600); //set datarate in bps (baude) per serial data transmission
   digitalWrite(d_pin, HIGH);
   digitalWrite(d_pin_Servo, HIGH);
